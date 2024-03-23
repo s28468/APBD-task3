@@ -1,0 +1,15 @@
+D:\progr\унки\APBD-task3\main\bin\Debug\net6.0\main.exe
+D:\progr\унки\APBD-task3\main\bin\Debug\net6.0\main.deps.json
+D:\progr\унки\APBD-task3\main\bin\Debug\net6.0\main.runtimeconfig.json
+D:\progr\унки\APBD-task3\main\bin\Debug\net6.0\main.dll
+D:\progr\унки\APBD-task3\main\bin\Debug\net6.0\main.pdb
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.csproj.AssemblyReference.cache
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.AssemblyInfoInputs.cache
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.AssemblyInfo.cs
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.csproj.CoreCompileInputs.cache
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.dll
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\refint\main.dll
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.pdb
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\main.genruntimeconfig.cache
+D:\progr\унки\APBD-task3\main\obj\Debug\net6.0\ref\main.dll
